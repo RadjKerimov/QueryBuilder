@@ -1,3 +1,3 @@
-## QueryBuilder
+### QueryBuilder
 Строитель запросов.
 ===========
